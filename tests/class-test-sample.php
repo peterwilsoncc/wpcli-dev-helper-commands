@@ -19,11 +19,4 @@ class Test_Sample extends WP_UnitTestCase {
 	public function test_passing_test() {
 		$this->assertTrue( true );
 	}
-
-	/**
-	 * Test that the tests are working.
-	 */
-	public function test_failing_test() {
-		$this->assertTrue( false );
-	}
 }
