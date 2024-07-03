@@ -1,1 +1,1 @@
-# wpcli-dev-helper-commands
+# WPCLI Dev Helper Commands
