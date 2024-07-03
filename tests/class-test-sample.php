@@ -5,7 +5,7 @@
  * @package PWCC\WPCLIDevHelperCommands\Tests
  */
 
- namespace PWCC\WPCLIDevHelperCommands\Tests;
+namespace PWCC\WPCLIDevHelperCommands\Tests;
 
 use WP_UnitTestCase;
 

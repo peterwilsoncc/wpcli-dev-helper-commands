@@ -8,7 +8,7 @@
  * @license           MIT
  */
 
- namespace PWCC\WPCLIDevHelperCommands;
+namespace PWCC\WPCLIDevHelperCommands;
 
 /**
  * Bootstrap the plugin.
